@@ -42,6 +42,16 @@ Test_Favorite_as_User.feature
 Test_Favorite_Sorting_List.feature
 ![Test_Favorite_Sorting_List.feature](./images/test_favorite_sorting_list.png "test_favorite_sorting_list")
 
+## Test Report HTML
+
+Test_Favorite_as_Guest.feature
+![Test_Favorite_as_Guest.feature](./images/feature-1-result.png "test_favorite_as_guest")
+
+Test_Favorite_as_User.feature
+![Test_Favorite_as_User.feature](./images/feature-2-result.png "test_favorite_as_user")
+
+Test_Favorite_Sorting_List.feature
+![Test_Favorite_Sorting_List.feature](./images/feature-3-result.png "test_favorite_sorting_list")
 
 ## Covered Test Scenario 
 
